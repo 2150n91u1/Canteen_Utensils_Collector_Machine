@@ -9,9 +9,11 @@ Schematic of Sub Controller System:
 <img width="2085" height="1404" alt="Sub_Controller_Schematic" src="https://github.com/user-attachments/assets/6c5c2457-6dac-4854-a4b2-8ba713fff752" />
 
 Assembly View of the Machine:
+
 <img width="464" height="580" alt="image" src="https://github.com/user-attachments/assets/2ac4aada-51dc-4ecb-aad4-e82797786838" />
 
 Prototype Footage:
+
 <img width="148" height="284" alt="image" src="https://github.com/user-attachments/assets/7b3a0c07-138d-4b5e-936c-f65a228c5343" />\
 
 
